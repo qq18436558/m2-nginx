@@ -1,2 +1,3 @@
 #!/bin/sh
-nginx
+/usr/sbin/nginx
+echo "nginx starting"
